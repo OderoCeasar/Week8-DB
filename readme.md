@@ -94,15 +94,4 @@ The script includes sample data for testing purposes:
 - **appointments**: A routine check-up appointment for George Ceasar with Dr. Leticia Joy.
 - **medical_records**: A medical record for George Ceasar with a diagnosis of Hypertension.
 
-## How to Use
 
-1. Run the script in a MySQL-compatible database environment.
-2. The script will:
-   - Create the `ClinicBooking` database.
-   - Define the schema for the tables.
-   - Populate the tables with sample data.
-
-## Prerequisites
-
-- MySQL or a compatible database system.
-- A database client or command-line tool to execute the SQL script.
